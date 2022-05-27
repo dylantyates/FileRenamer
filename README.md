@@ -60,10 +60,6 @@ Pass the path where your old files are located.
 
 Pass the extensions you would like to support.
 
-## File Support
-
-Theoretically you could support any standard type of file but for right now the following are supported
-
 ## Requirements
 
 In order for this to work the following Excel document requirements are needed.
